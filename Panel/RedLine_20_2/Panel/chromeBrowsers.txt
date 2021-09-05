@@ -1,0 +1,40 @@
+%USERPROFILE%\AppData\Local\Battle.net
+%USERPROFILE%\AppData\Local\Chromium\User Data
+%USERPROFILE%\AppData\Local\Google\Chrome\User Data
+%USERPROFILE%\AppData\Local\Google(x86)\Chrome\User Data
+%USERPROFILE%\AppData\Roaming\Opera Software\
+%USERPROFILE%\AppData\Local\MapleStudio\ChromePlus\User Data
+%USERPROFILE%\AppData\Local\Iridium\User Data
+%USERPROFILE%\AppData\Local\7Star\7Star\User Data
+%USERPROFILE%\AppData\Local\CentBrowser\User Data
+%USERPROFILE%\AppData\Local\Chedot\User Data
+%USERPROFILE%\AppData\Local\Vivaldi\User Data
+%USERPROFILE%\AppData\Local\Kometa\User Data
+%USERPROFILE%\AppData\Local\Elements Browser\User Data
+%USERPROFILE%\AppData\Local\Epic Privacy Browser\User Data
+%USERPROFILE%\AppData\Local\uCozMedia\Uran\User Data
+%USERPROFILE%\AppData\Local\Fenrir Inc\Sleipnir5\setting\modules\ChromiumViewer
+%USERPROFILE%\AppData\Local\CatalinaGroup\Citrio\User Data
+%USERPROFILE%\AppData\Local\Coowon\Coowon\User Data
+%USERPROFILE%\AppData\Local\liebao\User Data
+%USERPROFILE%\AppData\Local\QIP Surf\User Data
+%USERPROFILE%\AppData\Local\Orbitum\User Data
+%USERPROFILE%\AppData\Local\Comodo\Dragon\User Data
+%USERPROFILE%\AppData\Local\Amigo\User\User Data
+%USERPROFILE%\AppData\Local\Torch\User Data
+%USERPROFILE%\AppData\Local\Yandex\YandexBrowser\User Data
+%USERPROFILE%\AppData\Local\Comodo\User Data
+%USERPROFILE%\AppData\Local\360Browser\Browser\User Data
+%USERPROFILE%\AppData\Local\Maxthon3\User Data
+%USERPROFILE%\AppData\Local\K-Melon\User Data
+%USERPROFILE%\AppData\Local\Sputnik\Sputnik\User Data
+%USERPROFILE%\AppData\Local\Nichrome\User Data
+%USERPROFILE%\AppData\Local\CocCoc\Browser\User Data
+%USERPROFILE%\AppData\Local\Uran\User Data
+%USERPROFILE%\AppData\Local\Chromodo\User Data
+%USERPROFILE%\AppData\Local\Mail.Ru\Atom\User Data
+%USERPROFILE%\AppData\Local\BraveSoftware\Brave-Browser\User Data
+%USERPROFILE%\AppData\Local\Microsoft\Edge\User Data
+%USERPROFILE%\AppData\Local\NVIDIA Corporation\NVIDIA GeForce Experience
+%USERPROFILE%\AppData\Local\Steam
+%USERPROFILE%\AppData\Local\CryptoTab Browser\User Data

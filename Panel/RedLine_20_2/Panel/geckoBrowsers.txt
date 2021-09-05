@@ -1,0 +1,8 @@
+%USERPROFILE%\AppData\Roaming\Mozilla\Firefox
+%USERPROFILE%\AppData\Roaming\Waterfox
+%USERPROFILE%\AppData\Roaming\K-Meleon
+%USERPROFILE%\AppData\Roaming\Thunderbird
+%USERPROFILE%\AppData\Roaming\Comodo\IceDragon
+%USERPROFILE%\AppData\Roaming\8pecxstudios\Cyberfox
+%USERPROFILE%\AppData\Roaming\NETGATE Technologies\BlackHaw
+%USERPROFILE%\AppData\Roaming\Moonchild Productions\Pale Moon
