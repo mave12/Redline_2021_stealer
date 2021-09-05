@@ -1,6 +1,10 @@
 # Redline_20_2_crack
 
-[URL='https://ibb.co/Dz4rWsz'][IMG]https://i.ibb.co/S5NfyW5/t.png[/IMG][/URL]
+p align="center">
+<img src="https://i.ibb.co/S5NfyW5/t.png" ><br>
 
-[URL='https://imgbb.com/'][IMG]https://i.ibb.co/fFNydyG/ww.png[/IMG][/URL]
+p align="center">
+<img src="https://i.ibb.co/fFNydyG/ww.png" ><br>
+
+
 
